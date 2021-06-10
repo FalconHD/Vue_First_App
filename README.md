@@ -1,5 +1,4 @@
-# giftshower
-
+# Giphy API With Vue 3 
 ## Project setup
 ```
 npm install
