@@ -1,5 +1,5 @@
 # Giphy API With Vue 3 
-## Project setup
+## Live
 # https://gifsfinder.netlify.app/
 
 
